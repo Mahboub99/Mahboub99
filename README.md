@@ -16,7 +16,7 @@
 
 - Programming Languages : C++ / C# / C , Python, JavaScript, TypeScript, X86 Assembly, matlab/octave
 
-- Front End Technologies : HTML, CSS, React, Angular
+- Front End Technologies : HTML, CSS, React, Vue .
 
 - Back End Technologies: Node.js, Express, Flask .
 
