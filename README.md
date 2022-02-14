@@ -12,7 +12,7 @@
 <br/>
 
 - Computer Enginerring student interested in problem solveing and SDE.
-  I am actively looking for a Software Engineering-fall 2021-internship.
+ 
 
 - Programming Languages : C++ / C# / C , Python, JavaScript, TypeScript, X86 Assembly, matlab/octave
 
