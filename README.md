@@ -24,4 +24,3 @@
 
 <br/>
 
-<div align = center> <img src = "https://github-readme-stats.vercel.app/api?username=Mahboub99&show_icons=true&theme=dark"></img></div>
